@@ -1,0 +1,2 @@
+- name: Bridgecrew Github Action
+  uses: bridgecrewio/bridgecrew-action@v1.177.2
